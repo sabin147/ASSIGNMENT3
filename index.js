@@ -19,9 +19,6 @@ Vue.createApp({
             {
                 this.result ="must not be negative number : " + times;
             }
-            
-
-           
         }
         
     }

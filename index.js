@@ -8,6 +8,7 @@ Vue.createApp({
         }
     },
     methods: {
+        this.reasult = "";
         repeat(message,times) {
             if(times>0)
             { for(i=0;i<times;i++)
